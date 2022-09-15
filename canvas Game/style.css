@@ -1,0 +1,13 @@
+#mycanvas {
+    background-color: #080808;
+    margin: 0px 0px 0px 100px;
+    box-shadow: red;
+}
+
+body {
+    background-color: gray;
+    text-align: center;
+    color: black;
+    text-shadow: 2px 2px 3px red;
+    font-size: 40px;
+}

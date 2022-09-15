@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(107, 238, 26);
+}
+
+#loancal {
+    border: 2px solid red;
+    margin-top: 200px;
+    width: 500px;
+    height: 400px;
+    margin-left: 500px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+#Interest_Rate,
+#loan_ammount,
+#Months_To_Pay {
+    width: 200px;
+    height: 20px;
+}

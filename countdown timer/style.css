@@ -1,0 +1,34 @@
+body {
+    background-color: grey;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(13, 14, 13);
+    text-shadow: 2px 2px 3px red;
+    text-transform: uppercase;
+}
+
+#root {
+    margin-top: 50px;
+    width: 50%;
+    text-align: right;
+}
+
+input {
+    width: 300px;
+    height: 50px;
+    font-size: x-large;
+    color: black;
+}
+
+button {
+    color: black;
+    font-size: 25px;
+    width: 100px;
+    height: 50px;
+    background-color: darkgray;
+    text-shadow: 2px 2px 3px red;
+}
+
+button:hover {
+    background-color: chocolate;
+}
